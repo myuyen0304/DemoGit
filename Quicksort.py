@@ -1,3 +1,4 @@
+#Add some comment
 #Doi gia tri cho 2 bien
 def doicho(m,n):
     return n,m
